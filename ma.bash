@@ -42,5 +42,5 @@ trap '_SMATRPQuIT_ $? $LINENO $BASH_COMMAND' QUIT
 
 cd "$JDR"
 # _AT_ name/project commit
-
+_AT_ SilangQuan/CoolReader f247e0dbd154ee49a8bee456931934b16fae06bd
 # ma.bash OEF 
