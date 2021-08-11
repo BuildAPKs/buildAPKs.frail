@@ -44,4 +44,5 @@ cd "$JDR"
 # _AT_ name/project commit
 _AT_ JohnPark86/MultiUse b2d17ca3f630ac883e9785458493b860066e46ce
 _AT_ SilangQuan/CoolReader f247e0dbd154ee49a8bee456931934b16fae06bd
+_AT_ vitaly-little/RRatoraktInternetRadio 0789ed433d104aece88c1ecacf21ea603d3fd9be
 # ma.bash OEF 
