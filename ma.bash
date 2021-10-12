@@ -43,6 +43,7 @@ trap '_SMATRPQuIT_ $? $LINENO $BASH_COMMAND' QUIT
 cd "$JDR"
 # _AT_ name/project commit
 _AT_ aosp-mirror/platform_packages_apps_soundrecorder 30b3ba89e435bc2d0b686cab2f2c0d5a33c8fbeb
+_AT_ aosp-mirror/platform_packages_apps_music 922216b0b0a57e56663dd480f908589cb8e5159d
 _AT_ JohnPark86/MultiUse b2d17ca3f630ac883e9785458493b860066e46ce
 _AT_ mess110/CarrotRush 0408517dd8e246286e7ba0823602a7c8788ba6fe
 # _AT_ aosp-mirror/platform_packages_apps_htmlviewer 0e521ae9aa2c8b1b3d30870ec9662affef4b61a7
